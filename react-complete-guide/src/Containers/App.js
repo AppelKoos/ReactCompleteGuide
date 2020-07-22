@@ -3,7 +3,7 @@ import classes from './App.css';
 import Persons from '../Components/Persons/Persons';
 import Cockpit from '../Components/Cockpit/Cockpit'
 import withClass from '../hoc/withClass';
-import Aux from '../hoc/Aux';
+import Aux from '../hoc/AuxHoc';
 import AuthContext from '../context/auth-context';
 
 class App extends Component {
